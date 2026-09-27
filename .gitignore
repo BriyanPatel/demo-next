@@ -38,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# reel render scratch (final videos are copied to public/reel)
+/reel/out/
